@@ -85,6 +85,7 @@ More Details:
 
 This kind of Relationship, allows a junction or bridging table as a connection for the two tables.
 <img src= "Image/13-image.png" width="400" title="image-13" />
+Another Example: 
 <img src= "Image/13.2_image.png" width="400" title="image-13.2" />
 <img src= "Image/13.1-image.png" width="400" title="image-13.1" />
 
