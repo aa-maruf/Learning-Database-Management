@@ -13,7 +13,7 @@
 
  ### What is database?
 - [x]  Collection of similar/related data
- <img src ="./Image/3-image.png" width="400" title="Data vs information" />
+ <img src ="./Image/3-image.png" width="400" title="Image-3" />
 
 ### What is data base management system?
 - [x] Database Management Systems (DBMS) are software systems used to store, retrieve, and run queries on data.In short the tool or software where we can make stucture, table of database.
@@ -36,13 +36,13 @@
 <img src= "Image/5--image.png" width="400" title="Field vs Record" />
 
 - [x] Key Field : Key field is the unique field in the table (eg: Roll, Name, Gender)
-  <img src ="./Image/6-image.png" width="400" title="Advantage & disadvantage of database" />
+  <img src ="./Image/6-image.png" width="400" title="Image-6" />
    - [x] Primary Key : The field that helps to identify each record separately is called primary key field(eg: 101, 102 are identifical so Roll is primary key. )
     - [x]  Composite key: When primary key is not enough to identify a record. Then we need to multiple key field to identify a record. These are composite key.
-    <img src= "Image/7-image.png" width="400" title="Field vs Record" />
+    <img src= "Image/7-image.png" width="400" title="Image-7" />
     
     - [x] Foreing key: When a primary key of a table becomes normal key of another table it is called foreing key of that table. A table can consist multiple foreign keys. Foreign key created relation between two tables.
-   <img src= "Image/8-image.png" width="400" title="Field vs Record" />
+   <img src= "Image/8-image.png" width="400" title="Image-8" />
    
 
 ### Works of DBMS?
@@ -59,12 +59,12 @@
       
 ` Obserbation: Consider a single database as a table and RDBMS as the collection of tables those have relation or connection among them.`
 
-<img src= "Image/9-image.png" width="400" title="Field vs Record" />
-<img src= "Image/10-image.png" width="400" title="Field vs Record" />
+<img src= "Image/9-image.png" width="400" title="Image-9" />
+<img src= "Image/10-image.png" width="400" title="Image-10" />
 
 ### What is one to one relation?
 - [x] When a row in a table is related to only one role in another table and vice versa,we say that is a one to one relationship .This relationship can be created using Primary key constraints.
-<img src= "Image/11-image.png" width="400" title="Field vs Record" />
+<img src= "Image/11-image.png" width="400" title="Image-11" />
 Here,101 record of table-A is related to only
 record one record of table-B. Hence it creates one to one relation.
 
@@ -137,7 +137,7 @@ Resource: [Link](https://www.geeksforgeeks.org/difference-between-symmetric-and-
 
 
 ### [What is Query?](https://www.youtube.com/watch?v=ULXupjN_B2Q&list=PLgH5QX0i9K3qLcx9DvVDWmNJ7riPvxzCD&index=10)
-- [] will add later.
+- [ ] will add later.
 
   
 ### What is Query language?
